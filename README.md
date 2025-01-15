@@ -8,7 +8,7 @@ DOI: not yet available
 This version is in revision and is not yet published. Discussion on the final version will open when the Protocol has been published.
 
 ## CDOM Working Group
-Antonio Mannino[^1], Michael G. Novak[^1,2], Norman B. Nelson[^3], Mathias Belz[^4], Jean- François Berthon[^5], Neil V. Blough[^6], Emmanuel Boss[^7], Annick Bricaud[^8], Joaquin Chaves[^1,2], Carlos Del Castillo[^1], Rossana Del Vecchio[^9], Eurico J. D’Sa[^10], Scott Freeman[^1],[^2], Atsushi Matsuoka[^11], Richard L. Miller[^12], Aimee Neeley[^1,2], Rüdiger Röttgers[^13], Maria Tzortziou[^14], Jeremy Werdell[^1]
+Antonio Mannino[^1], Michael G. Novak[^1],[^2], Norman B. Nelson[^3], Mathias Belz[^4], Jean- François Berthon[^5], Neil V. Blough[^6], Emmanuel Boss[^7], Annick Bricaud[^8], Joaquin Chaves[^1],[^2], Carlos Del Castillo[^1], Rossana Del Vecchio[^9], Eurico J. D’Sa[^10], Scott Freeman[^1],[^2], Atsushi Matsuoka[^11], Richard L. Miller[^12], Aimee Neeley[^1],[^2], Rüdiger Röttgers[^13], Maria Tzortziou[^14], Jeremy Werdell[^1]
 
 [^1]: NASA Goddard Space Flight Center Greenbelt, MD, USA
 [^2]: Science Systems and Applications, Inc. (SSAI), Lanham, MD, USA
